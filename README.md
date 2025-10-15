@@ -10,4 +10,4 @@ Spacegame is a fast-paced arcade-style shooter where players control a spaceship
 
 * [windows](src/spacegame/macos-x86_64.zip)
 * [macOS](src/spacegame/macos-x86_64.zip)
-* [source code] (src/spacegame)
+* [source code] (https://github.com/9710159-spec/gamedevportfolio/tree/main/src/spacegame)
